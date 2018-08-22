@@ -1,0 +1,103 @@
+/* fonts */
+
+@font-face {
+    font-family: 'AdobeClean-Regular';
+	src: url('AdobeClean-Regular.otf'); /* IE9 Compat Modes */
+  	src: url('../../AdobeClean-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('webfont.woff') format('woff'), /* Modern Browsers */
+       url('webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('webfont.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'AdobeClean-Bold';
+	src: url('AdobeClean-Bold.otf'); /* IE9 Compat Modes */
+  	src: url('../../AdobeClean-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('webfont.woff') format('woff'), /* Modern Browsers */
+       url('webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('webfont.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+
+/* title bar styling */
+
+img.logo {
+	width: 80px;
+	height: auto;
+	padding: 10px 20px;
+}
+
+.data-sticky-container a {
+	color: white;
+	padding: 10px;
+}
+
+ul.dropdown {
+	float: right;
+	padding: 0;	
+	z-index: 3;
+}
+
+ul#menu-child a {
+	color: black;
+	padding: 10px;
+}
+
+.menu li {
+	padding: 10px;
+}
+
+.title-bar-right,
+.title-bar-left {
+	margin: 0 40px;
+}
+
+/* mainpage content */
+
+h1, h2, h3, h4, h5, a, p {
+	font-family: 'AdobeClean-Regular';
+}
+
+#header-text {
+	padding: 40px 0px 0px 70px;
+}
+
+img.icons {
+	height: 100px;
+	max-height: auto;
+	padding: 20px;
+}
+
+#section {
+	margin: 0 0 3% 0;
+}
+
+#details {
+	margin: 1% 0;
+	padding: 0px 70px;
+}
+
+.callout {
+	align-content: center;
+	border: 2px solid #707070;
+    border-radius: 4px;
+    margin: 20px 0;
+    padding: 10px 20px;
+    color: #707070;
+    font-size: 14px;
+    font-weight: 400;
+	width: 100%;
+	font-family: 'AdobeClean-Bold';	
+}
+
+/* footer */
+
+footer {
+	background-color: black;
+	padding: 20px 80px;
+	color: white;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	height: 100px;
+}
