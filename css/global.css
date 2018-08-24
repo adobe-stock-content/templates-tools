@@ -66,11 +66,12 @@ img.app {
 	width: 30px;
 	max-height: auto;
 	margin: 0px 20px 0px 0px;
-	display: none;
+	display: box;
 }
 
 img.icon {
 	width: 30px;
+	margin: 0px 0px 20px 0px;
 	max-height: auto;
 }
 
