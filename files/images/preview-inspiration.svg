@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" data-name="S_ImageAlbum_24_N@2x" height="48" id="S_ImageAlbum_24_N_2x" viewBox="0 0 48 48" width="48">
+  <defs>
+    <style>
+	.fill {
+        fill: #707070;
+      }</style>
+  </defs>
+  <title>S_ImageAlbum_24_N@2x</title>
+  <rect id="ToDelete" fill="#ff13dc" opacity="0" width="48" height="48" /><circle class="fill" cx="31.5" cy="18.404" r="3.094" />
+  <path class="fill" d="M46,8H6a2,2,0,0,0-2,2v6H1a1,1,0,0,0-1,1v2a1,1,0,0,0,1,1H4v8H1a1,1,0,0,0-1,1v2a1,1,0,0,0,1,1H4v6a2,2,0,0,0,2,2H46a2,2,0,0,0,2-2V10A2,2,0,0,0,46,8ZM10,31a1,1,0,0,1-1,1H6V28H9a1,1,0,0,1,1,1Zm0-12a1,1,0,0,1-1,1H6V16H9a1,1,0,0,1,1,1ZM44,33.311c-1.919-2.034-5.14-4.645-6.682-4.583-2.409,0-5.5,4.006-8.752,4.006-2.2,0-5.367-7.519-7.839-7.519S14.478,28.587,12,31.7V12H44Z" />
+  </svg>
