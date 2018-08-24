@@ -62,10 +62,16 @@ h1, h2, h3, h4, h5, a, p {
 	padding: 40px 0px 0px 70px;
 }
 
-img.icons {
-	height: 100px;
+img.app {
+	width: 30px;
 	max-height: auto;
-	padding: 20px;
+	margin: 0px 20px 0px 0px;
+	display: none;
+}
+
+img.icon {
+	width: 30px;
+	max-height: auto;
 }
 
 #section {

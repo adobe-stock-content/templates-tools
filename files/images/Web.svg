@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" data-name="S_DeviceDesktop_24_N@2x" height="48" id="S_DeviceDesktop_24_N_2x" viewBox="0 0 48 48" width="48">
+  <defs>
+    <style>
+	.fill {
+        fill: #707070;
+      }</style>
+  </defs>
+  <title>S_DeviceDesktop_24_N@2x</title>
+  <rect id="ToDelete" fill="#ff13dc" opacity="0" width="48" height="48" /><path class="fill" d="M44,4H4A2,2,0,0,0,2,6V32a2,2,0,0,0,2,2H18v4a2.006,2.006,0,0,1-2,2H13a1,1,0,0,0-1,1v2a1,1,0,0,0,1,1H35a1,1,0,0,0,1-1V41a1,1,0,0,0-1-1H32a2.006,2.006,0,0,1-2-2V34H44a2,2,0,0,0,2-2V6A2,2,0,0,0,44,4ZM42,30H6V8H42Z" />
+  </svg>
