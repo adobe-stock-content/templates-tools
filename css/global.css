@@ -90,6 +90,14 @@ img.icons {
 	font-family: 'AdobeClean-Bold';	
 }
 
+.category {
+	margin: 50px 0px;
+}
+
+.medium-4 {
+	padding: 2%;
+}
+
 /* footer */
 
 footer {
