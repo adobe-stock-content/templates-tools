@@ -63,14 +63,13 @@ h1, h2, h3, h4, h5, a, p {
 }
 
 img.app {
-	width: 30px;
+	width: 50px;
 	max-height: auto;
 	margin: 0px 20px 0px 0px;
 	display: box;
 }
 
 img.icon {
-	width: 30px;
 	margin: 0px 0px 20px 0px;
 	max-height: auto;
 }
