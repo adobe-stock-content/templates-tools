@@ -55,7 +55,7 @@ ul#menu-child a {
 /* mainpage content */
 
 h1, h2, h3, h4, h5, a, p {
-	font-family: 'AdobeClean-Regular';
+	font-family: 'AdobeClean-Regular', helvetica, sans-serif;
 }
 
 #header-text {
