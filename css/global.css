@@ -4,8 +4,8 @@
     font-family: 'AdobeClean-Regular';
 	src: url('/fonts/AdobeClean-OpenType/AdobeClean-Regular.otf'); /* IE9 Compat Modes */
   	src: url('/fonts/AdobeClean-OpenType/AdobeClean-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('AdobeClean-Regular.otf') format('woff'), /* Modern Browsers */
-       url('AdobeClean-Regular.otf') format('truetype'), /* Safari, Android, iOS */
+       url('AdobeClean-Regular.woff2') format('woff'), /* Modern Browsers */
+       url('AdobeClean-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
        url('AdobeClean-Regular.svg#svgFontName') format('svg'); /* Legacy iOS */
 }
 
@@ -13,9 +13,9 @@
     font-family: 'AdobeClean-Bold';
 	src: url('/fonts/AdobeClean-OpenType/AdobeClean-Bold.otf'); /* IE9 Compat Modes */
   	src: url('/fonts/AdobeClean-OpenType/AdobeClean-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('AdobeClean-Regular.woff') format('woff'), /* Modern Browsers */
-       url('AdobeClean-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
-       url('AdobeClean-Regular.svg#svgFontName') format('svg'); /* Legacy iOS */
+       url('AdobeClean-Bold.woff2') format('woff'), /* Modern Browsers */
+       url('AdobeClean-Bold.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('AdobeClean-Bold.svg#svgFontName') format('svg'); /* Legacy iOS */
 }
 
 @import url('https://fonts.googleapis.com/css?family=Ubuntu');
