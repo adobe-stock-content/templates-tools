@@ -76,6 +76,17 @@ img.icon {
 	max-height: auto;
 }
 
+img#info {
+	height: 20px;
+	width: auto;
+	float: right;
+}
+
+#callout-subhead {
+	color: #000000;
+	font-family: 'AdobeClean-Bold', 'Ubuntu', helvetica, sans-serif;
+}	
+
 #section {
 	margin: 0 0 3% 0;
 }
