@@ -132,3 +132,13 @@ footer {
 footer a {
 	color: #1473e6;
 }
+
+footer h5 {
+	width: 70%;
+	float: left;
+}
+
+footer p {
+	width: 30%;
+	float: right;
+}
