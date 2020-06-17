@@ -3738,7 +3738,7 @@ select {
   content: '';
   border-bottom-width: 0;
   border-top-style: solid;
-  border-color: white transparent transparent;
+  border-color: #1473e6 transparent transparent;
   right: 5px;
   left: auto;
   margin-top: -3px; }
@@ -5002,14 +5002,16 @@ a.thumbnail {
 
 .title-bar {
   padding: 0.5rem;
-  background: #0a0a0a;
-  color: #fefefe;
+  height: 100px;
+  background: #f5f5f5;
+  color: black;
   display: -ms-flexbox;
   display: flex;
   -ms-flex-pack: start;
       justify-content: flex-start;
   -ms-flex-align: center;
-      align-items: center; }
+      align-items: center; 
+      box-shadow: 0px 5px 5px rgba(200,200,200, 0.3)}
   .title-bar .menu-icon {
     margin-left: 0.25rem;
     margin-right: 0.25rem; }

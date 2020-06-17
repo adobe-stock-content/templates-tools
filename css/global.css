@@ -30,7 +30,7 @@ img.logo {
 }
 
 .data-sticky-container a {
-	color: white;
+	color: #1473e6;
 	padding: 10px;
 }
 
@@ -58,6 +58,7 @@ ul#menu-child a {
 
 h1, h2, h3, h4, h5, a, p {
 	font-family: 'AdobeClean-Regular', 'Ubuntu', helvetica, sans-serif;
+	color: black;
 }
 
 #header-text {
